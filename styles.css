@@ -1,0 +1,31 @@
+.color-1 {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: inline;
+}
+
+.header {
+    padding: 0;
+    display: flex;
+    gap: 8px;
+    justify-content: flex-end;
+}
+.logoText {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.bodyHeading {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+button {
+    background-color: #3882F6;
+}
